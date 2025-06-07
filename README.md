@@ -1,4 +1,4 @@
-# Intellipaat_Data_Science_with_R# Data Science with R – Intellipaat
+# Data Science with R – Intellipaat
 
 I’ve completed the **“Data Science with R”** course from Intellipaat to strengthen my foundation in the R programming language, one of the key tools used in the data science field. Though R was new to me, I challenged myself to get hands-on with its flow, syntax, and data wrangling techniques.
 
